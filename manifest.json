@@ -1,0 +1,14 @@
+{
+  "name": "Dartscore",
+  "short_name": "Dartscore",
+  "description": "Een eenvoudige dart-score-app voor thuis en online spelen.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#121826",
+  "theme_color": "#121826",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
